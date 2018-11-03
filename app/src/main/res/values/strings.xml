@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Ride\'eM</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_restaurant">Restaurant</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="name_fragment2">Lodging</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_fragment">Restaurant</string>
+    <string name="title_activity_restyu">Restyu</string>
+    <string name="title_activity_restaur">restaur</string>
+    <string name="title_activity_pump_and_workshops_pager">PumpAndWorkshopsPager</string>
+   <string name="name_pump">Pump</string>
+    <string name="name_carworkshop">Workshop</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2991702481825090/6671561584</string>
+    <string name="ad_id_interstitial">ca-app-pub-2991702481825090/5069052914</string>
+
+</resources>

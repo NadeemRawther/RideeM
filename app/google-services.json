@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "82707380863",
+    "firebase_url": "https://ride-em.firebaseio.com",
+    "project_id": "ride-em",
+    "storage_bucket": "ride-em.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82707380863:android:182088717caf6f6e",
+        "android_client_info": {
+          "package_name": "com.nads.rideem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82707380863-kvq28anij8vts1gn2fvh37rl4ervsock.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "82707380863-htmjbu1gfqqri8ulr24pshplqi6rjlhn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nads.rideem",
+            "certificate_hash": "91f3c82441ccc6ad8a968ecfef0e3d43407aab08"
+          }
+        },
+        {
+          "client_id": "82707380863-edisoldd778iemi9kusdidktfaevgv9c.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "82707380863-h08v3b065jt6nb7589s1t652pitt1jfj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nads.rideem",
+            "certificate_hash": "57253fc301bfedd7e1008ade32e55f19bc4bb0bf"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmyxPdSNC1uZLX_Od4D2CwvNfQIAxcwkg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82707380863-kvq28anij8vts1gn2fvh37rl4ervsock.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
